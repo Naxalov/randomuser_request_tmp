@@ -6,3 +6,6 @@ r = requests.get(url)
 data = r.json()['results']
 for i in data:
     print(i['name'],i['nat'])
+
+
+# sdflksdjflks
